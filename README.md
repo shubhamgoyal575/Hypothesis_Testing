@@ -6,27 +6,34 @@ Welcome to the Hypothesis Testing repository! 🎉 This repository contains solu
 The repository is organized as follows:
 
 Copy code
+
 ├── Datasets.zip
+
 ├── Problem1.ipynb
+
 ├── Problem2.ipynb 
+
 ├── Problem3.ipynb 
+
 ├── Problem4.ipynb
+
 ├── README.md  
+
 Each Python file focuses on solving a unique problem statement using hypothesis testing methods.
 
 
 🛠️ Tools and Libraries
 The solutions use Python and the following libraries:
 
-numpy
-scipy
-pandas
-matplotlib (for visualization)
+- numpy
+- scipy
+- pandas
+- matplotlib (for visualization)
 
 
 📊 Insights
 Each solution includes:
 
-Hypothesis formulation (null and alternative hypotheses).
-Python implementation of the hypothesis test.
-Interpretation of the results.
+- Hypothesis formulation (null and alternative hypotheses).
+- Python implementation of the hypothesis test.
+- Interpretation of the results.
